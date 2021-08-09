@@ -15,3 +15,9 @@
 ```
 pip install -r requirements.txt
 ```
+
+- Run the webapp with:
+
+```
+python manage.py runserver
+```
